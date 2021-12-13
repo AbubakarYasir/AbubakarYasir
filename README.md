@@ -15,8 +15,13 @@ as well as Website Design
 &nbsp;
 \
 &nbsp;
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/?username=AbubakarYasir&count_private=true&show_icons=true&hide=contribs,prs&theme=onedark" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarYasir&layout=compact" />
+\
+&nbsp;
+\
+&nbsp;
 
+---
+
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarYasir&layout=compact" />
 <link rel="stylesheet" href="main.css">
 
