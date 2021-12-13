@@ -23,6 +23,9 @@ as well as Website Design
 ---
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarYasir&layout=compact" />
