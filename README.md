@@ -1,5 +1,4 @@
 # Hi there 👋
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AbubakarYasir.visitor-badge)
 <a href="https://app.daily.dev/Abubakar_Yasir"><img src="https://github.com/AbubakarYasir/AbubakarYasir/blob/main/devcard.svg" align="right" width="250" alt="Abubakar Yasir's Dev Card"/></a>
 
 - 👨🏻‍💻 I am an Exceptional and highly-skilled web developer who is passionate about metrics and beating past "bests-yet"
@@ -13,10 +12,10 @@ as well as Website Design
 - 🙃 Experience creating and maintaining world-class websites
 - 💼 I also have experience working with Youtubers and local businesses as a web designer and developer
 
-<br />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarYasir&layout=compact" />
-<br />
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=AbubakarYasir&count_private=true&show_icons=true&hide=contribs,prs&theme=onedark" />
+<br><br><br>
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/?username=AbubakarYasir&count_private=true&show_icons=true&hide=contribs,prs&theme=onedark" />  
+
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarYasir&layout=compact" />
 
 <link rel="stylesheet" href="main.css">
 
