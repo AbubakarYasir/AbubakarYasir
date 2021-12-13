@@ -22,6 +22,9 @@ as well as Website Design
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarYasir&layout=compact" />
 <link rel="stylesheet" href="main.css">
 
