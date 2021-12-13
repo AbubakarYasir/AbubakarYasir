@@ -13,5 +13,7 @@ as well as Website Design
 - 🙃 Experience creating and maintaining world-class websites
 - 💼 I also have experience working with Youtubers and local businesses as a web designer and developer
 
+![Metrics](https://raw.githubusercontent.com/AbubakarYasir/AbubakarYasir/github-metrics/github-metrics.svg)
+
 <link rel="stylesheet" href="main.css">
 
