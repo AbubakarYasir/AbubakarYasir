@@ -5,12 +5,21 @@
 - 👤 Delivers consistently high levels of user experience across all web development projects
 - 🌍 Dedicated to creating world-class websites
 
-### WEBSITE DESIGNER / DEVELOPER
+#### WEBSITE DESIGNER / DEVELOPER
 
 - 😎 Highly proficient in HTML, CSS, and JS
 as well as Website Design
 - 🙃 Experience creating and maintaining world-class websites
 - 💼 I also have experience working with Youtubers and local businesses as a web designer and developer
+
+#### 📊 This Week I Spent My Time On:
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
+
+
 \
 &nbsp;
 \
@@ -24,12 +33,6 @@ as well as Website Design
 
 
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarYasir&layout=compact" />
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 <link rel="stylesheet" href="main.css">
 
