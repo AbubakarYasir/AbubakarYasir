@@ -11,10 +11,11 @@
 as well as Website Design
 - 🙃 Experience creating and maintaining world-class websites
 - 💼 I also have experience working with Youtubers and local businesses as a web designer and developer
-
-<br><br><br>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/?username=AbubakarYasir&count_private=true&show_icons=true&hide=contribs,prs&theme=onedark" />  
-
+\
+&nbsp;
+\
+&nbsp;
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/?username=AbubakarYasir&count_private=true&show_icons=true&hide=contribs,prs&theme=onedark" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarYasir&layout=compact" />
 
 <link rel="stylesheet" href="main.css">
