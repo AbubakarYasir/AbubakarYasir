@@ -15,7 +15,9 @@ as well as Website Design
 #### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML       59 mins         ████████████████▒░░░░░░░░   65.71 % 
+Markdown   28 mins         ████████░░░░░░░░░░░░░░░░░   31.97 % 
+JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 <!--END_SECTION:waka-->
 
