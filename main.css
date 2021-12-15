@@ -1,3 +1,6 @@
 img {
     padding: 0 10%;
 }
+div.snippet-clipboard-content.overflow-auto {
+    position:absolute;
+}
