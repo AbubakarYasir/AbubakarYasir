@@ -1,5 +1,5 @@
 # Hi there 👋
-<a href="https://app.daily.dev/Abubakar_Yasir"><img src="https://api.daily.dev/devcards/0d784164844a4242ae11c87bdc8658be.png?r=hoa" align="right" width="200" alt="Abubakar Yasir's Dev Card"/></a>
+<a href="https://app.daily.dev/Abubakar_Yasir"><img src="https://github.com/AbubakarYasir/AbubakarYasir/blob/main/devcard.svg" align="right" width="200" alt="Abubakar Yasir's Dev Card"/></a>
 
 - 👨🏻‍💻 I am an Exceptional and highly-skilled web developer who is passionate about metrics and beating past "bests-yet"
 - 👤 Delivers consistently high levels of user experience across all web development projects
