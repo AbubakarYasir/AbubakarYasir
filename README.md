@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://github.com/AbubakarYasir/AbubakarYasir/blob/main/main.css">
+<link rel="stylesheet" href="main.css">
 
 # Hi there 👋
 <a href="https://app.daily.dev/Abubakar_Yasir"><img src="https://github.com/AbubakarYasir/AbubakarYasir/blob/main/devcard.svg" align="right" width="200" alt="Abubakar Yasir's Dev Card"/></a>
