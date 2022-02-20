@@ -4,3 +4,13 @@ img {
 div {
     position:absolute;
 }
+@media only screen and (max-width:320px) {
+    img {
+        padding: 0 5%;
+        height: 20%;
+    }
+    div {
+        position:static;
+        height: 20%;
+    }
+}
