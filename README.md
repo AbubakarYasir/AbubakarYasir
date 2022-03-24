@@ -18,12 +18,10 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```text
-PHP             11 hrs 4 mins   █████████████░░░░░░░░░░░░   52.38 %
-CSS             7 hrs 42 mins   █████████░░░░░░░░░░░░░░░░   36.43 %
-JavaScript      1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-HTML            14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Apache Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Other           7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+PHP          6 hrs 37 mins   █████████████░░░░░░░░░░░░   51.46 %
+CSS          5 hrs 31 mins   ██████████▓░░░░░░░░░░░░░░   42.98 %
+JavaScript   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
