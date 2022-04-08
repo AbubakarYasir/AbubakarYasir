@@ -18,9 +18,7 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```text
-CSS          12 mins         ███████████████▓░░░░░░░░░   62.17 %
-PHP          7 mins          █████████░░░░░░░░░░░░░░░░   35.79 %
-Git Config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
