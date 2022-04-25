@@ -18,9 +18,7 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```text
-CSS          51 mins         █████████▒░░░░░░░░░░░░░░░   36.76 %
-HTML         50 mins         █████████░░░░░░░░░░░░░░░░   35.59 %
-Other        22 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
+Other        22 mins         ██████████████▓░░░░░░░░░░   58.87 %
 ```
 
 <!--END_SECTION:waka-->
