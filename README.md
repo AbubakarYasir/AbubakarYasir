@@ -18,7 +18,7 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```text
-Other        22 mins         ██████████████▓░░░░░░░░░░   58.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
