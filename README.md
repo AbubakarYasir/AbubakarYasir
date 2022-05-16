@@ -18,8 +18,7 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 11 mins    █████████████████████▒░░░   85.02 %
-HTML         12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
