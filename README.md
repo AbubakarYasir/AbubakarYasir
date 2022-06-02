@@ -7,7 +7,7 @@
 - 👤 Delivers consistently high levels of user experience across all web development projects
 - 🌍 Dedicated to creating world-class websites
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,vscode,git,linux,heroku)](https://skillicons.dev)
 
 #### WEBSITE DESIGNER / DEVELOPER
 
