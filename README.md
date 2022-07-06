@@ -21,6 +21,7 @@ as well as Website Design
 
 ```text
 JavaScript   0 secs          █████████████████████████   100.00 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
