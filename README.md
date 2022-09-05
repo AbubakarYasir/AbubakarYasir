@@ -27,7 +27,7 @@ No activity tracked
 
 #### 🔥 My Coding Streak:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbubakarYasir)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbubakarYasir&theme=dark)](https://git.io/streak-stats)
 
 
 \
