@@ -25,6 +25,10 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+#### 🔥 My Coding Streak:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbubakarYasir)](https://git.io/streak-stats)
+
 
 \
 &nbsp;
