@@ -20,8 +20,8 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```text
-Dart   46 mins         █████████████████████████   99.56 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Dart   1 hr 11 mins    █████████████████████████   99.71 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
