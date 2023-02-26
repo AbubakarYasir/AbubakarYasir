@@ -20,7 +20,8 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   5 mins          ████████████████████████░   96.39 %
+Git Config   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
 ```
 
 <!--END_SECTION:waka-->
