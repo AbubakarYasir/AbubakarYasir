@@ -20,11 +20,7 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   13 mins         █████████████████▒░░░░░░░   68.75 %
-TypeScript   3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.97 %
-Markdown     1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
