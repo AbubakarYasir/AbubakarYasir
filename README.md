@@ -20,7 +20,10 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+PHP    1 hr 3 mins     ████████████████▓░░░░░░░░   67.30 %
+HTML   28 mins         ███████▓░░░░░░░░░░░░░░░░░   30.45 %
+JSON   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+CSS    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
