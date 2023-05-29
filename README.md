@@ -20,9 +20,7 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```text
-PHP   1 hr 40 mins    █████████████░░░░░░░░░░░░   51.63 %
-C++   1 hr            ████████░░░░░░░░░░░░░░░░░   31.40 %
-CSS   32 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
+C++   1 hr            █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
