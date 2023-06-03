@@ -19,7 +19,7 @@ as well as Website Design
 #### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
