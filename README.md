@@ -20,7 +20,9 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```txt
-C++   37 mins         █████████████████████████   100.00 %
+C++     59 mins         ████████████████████████▒   97.43 %
+Git     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
