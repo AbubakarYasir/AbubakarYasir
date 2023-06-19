@@ -20,7 +20,11 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   39 mins         ████████████░░░░░░░░░░░░░   47.61 %
+HTML         30 mins         █████████░░░░░░░░░░░░░░░░   35.90 %
+JSON         9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+CSS          3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
