@@ -20,8 +20,7 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         3 mins          █████████████████░░░░░░░░   67.55 %
-JavaScript   1 min           ████████░░░░░░░░░░░░░░░░░   32.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
