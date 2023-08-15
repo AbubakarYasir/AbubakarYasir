@@ -20,7 +20,7 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```txt
-Python   15 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
