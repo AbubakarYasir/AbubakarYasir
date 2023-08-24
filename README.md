@@ -20,8 +20,7 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```txt
-PHP    59 mins         ███████████████████████▓░   95.03 %
-JSON   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
