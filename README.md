@@ -20,8 +20,7 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   0 secs          █████████████████████▒░░░   85.85 %
-PHP    0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
