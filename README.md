@@ -20,7 +20,7 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   46 mins         █████████████████████████   100.00 %
+HTML   2 hrs 18 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
