@@ -20,7 +20,9 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   2 hrs 18 mins   █████████████████████████   100.00 %
+HTML    4 hrs 32 mins   ████████████████████████▓   98.26 %
+Java    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
