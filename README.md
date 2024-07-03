@@ -20,8 +20,10 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```txt
-Python   45 mins         █████████████████████████   99.99 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   3 hrs 1 min     ██████████████████▓░░░░░░   74.79 %
+Python       1 hr            ██████▒░░░░░░░░░░░░░░░░░░   25.16 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
