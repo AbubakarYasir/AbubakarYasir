@@ -21,7 +21,9 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   26 mins         ██████████████░░░░░░░░░░░   55.56 %
+PHP        20 mins         ███████████░░░░░░░░░░░░░░   44.21 %
+Git        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
