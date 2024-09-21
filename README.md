@@ -21,11 +21,7 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 28 mins    █████████████▒░░░░░░░░░░░   53.00 %
-Other        23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
-JavaScript   16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-Git Config   16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-YAML         15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
