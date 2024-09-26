@@ -21,7 +21,11 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   37 mins         ███████████████████████▓░   94.98 %
+Bash         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
