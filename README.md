@@ -21,7 +21,8 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   9 mins          ██████████████████░░░░░░░   72.45 %
+HTML     3 mins          ███████░░░░░░░░░░░░░░░░░░   27.55 %
 ```
 
 <!--END_SECTION:waka-->
