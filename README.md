@@ -21,9 +21,7 @@ as well as Website Design
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   8 mins          ███████████▒░░░░░░░░░░░░░   45.61 %
-Text       7 mins          ██████████▒░░░░░░░░░░░░░░   40.89 %
-Other      2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
