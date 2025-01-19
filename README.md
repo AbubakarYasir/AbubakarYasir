@@ -18,7 +18,11 @@ I’m **Abu Bakar bin Yasir Gondal**, a **passionate learner** and **aspiring pr
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   1 hr 39 mins    ████████████████████░░░░░   80.52 %
+Bash         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+TypeScript   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+Git Config   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
