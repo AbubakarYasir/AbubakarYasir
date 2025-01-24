@@ -18,11 +18,11 @@ I’m **Abu Bakar bin Yasir Gondal**, a **passionate learner** and **aspiring pr
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   8 hrs 36 mins   ███████████████████▓░░░░░   78.22 %
-JSON         49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-CSS          35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-HTML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-Bash         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+JavaScript   8 hrs 38 mins   ███████████████████▓░░░░░   78.29 %
+JSON         49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+CSS          35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+HTML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Bash         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->
