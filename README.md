@@ -2,55 +2,52 @@
 
 **طالب علم · Designer · Developer**
 
-I’m a student of Islamic sciences in Lahore, Pakistan, with a particular interest in **Hadith, Usul al-Hadith, Fiqh, Takhrij, Tahqiq, Arabic, and the careful editing and verification of classical texts**.
+I am a student of Islamic sciences in Lahore, Pakistan. My main interests are **Hadith, Usul al-Hadith, Fiqh, Takhrij, Tahqiq, Arabic**, and working carefully with classical texts and their references.
 
-Alongside that, I’ve spent years working across **graphic design, UI/UX, web development, and educational technology**. What increasingly interests me is where these worlds meet: **serious reading software, multilingual and RTL interfaces, research tooling, digital publishing, and systems that make knowledge easier to preserve, navigate, and use**.
+I have also been doing **graphic design, UI/UX and web development** for years. A lot of the software and design work I care about now comes from problems I face myself while studying, reading, researching, or working with Arabic and Urdu material.
 
 ## What I’m focused on now — 2026
 
-- 📚 **Islamic studies:** studying at **Markaz Ibn e Masood Al-Islami** and continuing work in Hadith, Fiqh, Takhrij and Tahqiq.
-- 🔎 **Research & editing:** working through sources, isnads, narrators, variant wordings and references with an emphasis on verification rather than quick conclusions.
-- 🧭 **Atlas Reader:** building [Atlas Reader](https://github.com/AbubakarYasir/Atlas-Reader), an offline-first research library and PDF reader centered on deep bookmarks, Arabic/RTL support, local ownership and serious study workflows. Active development is moving forward in **C++23 + Qt**.
-- 🏫 **Educational technology:** helping develop the digital systems, web presence and learning infrastructure of Markaz Ibn e Masood Al-Islami.
-- 🎨 **Design:** continuing to develop my work in interface design, typography, visual hierarchy and multilingual experiences.
-- 🇩🇪 **German:** preparing to enter **B1**, with the goal of reaching **B2 by March 2027**, as part of my preparation for undergraduate study in **UI/UX / interface design in Germany**.
-- 💻 **Engineering:** strengthening **TypeScript/JavaScript, React, Next.js, Node.js, Express and MongoDB**, while learning deeper native application engineering through C++ and Qt.
+- 📚 **Islamic studies:** studying at **Markaz Ibn e Masood Al-Islami**, with most of my attention on Hadith, Fiqh, Takhrij and Tahqiq.
+- 🔎 **Takhrij & Tahqiq:** tracing sources and turuq, checking isnads and rijal, comparing wordings, and trying not to give a conclusion before the evidence is actually clear.
+- 🧭 **Atlas Reader:** building [Atlas Reader](https://github.com/AbubakarYasir/Atlas-Reader), mainly because I wanted a reader that works better for the kind of reading and research I actually do: large PDF libraries, deep bookmarks, Arabic/RTL, local files and no dependence on a cloud account. The active version is moving forward in **C++23 + Qt**.
+- 🏫 **Markaz:** working on its website, digital systems and other technology-related work where I can be useful.
+- 🎨 **Design:** continuing UI/UX, typography, layout and visual design. I have been designing for years and do not want to leave that side of my work.
+- 🇩🇪 **German:** preparing for **B1** now, with **B2 by March 2027** as the target. The reason is simple: I want to study **UI/UX / interface design in Germany**.
+- 💻 **Development:** improving my **TypeScript/JavaScript, React, Next.js, Node.js, Express and MongoDB**, while learning more native application development through C++ and Qt because of Atlas Reader.
 
 ## Where I’m heading
 
-My long-term academic direction is centered on **Hadith and Usul al-Hadith, Takhrij, Tahqiq and Fiqh**, with the aim of growing into sustained work in research, writing, editing and publication.
+Long term, I want most of my serious academic work to be in **Hadith and Usul al-Hadith, Takhrij, Tahqiq and Fiqh**. I want to keep researching, writing, editing and publishing in these fields properly over the years.
 
-I don’t see design and software as completely separate ambitions. I want them to remain crafts through which I can build better **reading tools, publications, learning environments and knowledge systems**—especially for work involving Arabic, Urdu and serious study.
+I also want to keep design and development with me. I have been doing both from a young age, and I would rather use them to build things I actually need: better readers, research tools, websites, publications and systems for learning.
 
-On the design side, **Germany is the next practical step**: German → B2 → undergraduate design study → deeper work in interaction/interface design and design research.
+For design, the next major step is Germany: **German → B2 → undergraduate design study → deeper work in UI/UX, interaction/interface design and design research**.
 
-## A project that brings these interests together
+## Atlas Reader
 
-### [Atlas Reader](https://github.com/AbubakarYasir/Atlas-Reader)
+[Atlas Reader](https://github.com/AbubakarYasir/Atlas-Reader) started from a very practical problem: I read and work with a lot of PDFs, and the readers I used kept getting in the way of how I wanted to study.
 
-A local-first scholarly reader built from problems I encounter in real reading and research: finding books quickly, navigating large PDFs, preserving detailed bookmarks, working comfortably with Arabic/RTL material, and keeping the user’s intellectual work portable rather than trapped in a cloud account.
+The project is focused on fast local libraries, serious bookmark handling, Arabic/RTL support, good PDF navigation, annotations, and keeping the user’s files and research on their own machine.
 
-The current native direction is **Windows-first with C++23 and Qt**, with a portable core intended to make later platform expansion possible.
+The current native direction is **Windows-first with C++23 and Qt**, with the core being kept portable for later platforms.
 
 ## Tools I work with
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,cpp,qt,wordpress,figma,ps,ai,git,github,linux,vscode)](https://skillicons.dev)
 
-## A few principles I’m trying to work by
+## Things I try to keep in my work
 
-- **Accuracy before speed.**
-- **Depth before presentation.**
-- **Build for real use, not just for a demo.**
-- **Let technology serve knowledge rather than compete with it.**
-- **Turn broad interests into sustained, finished work.**
+- Verify before claiming something.
+- Build around an actual problem instead of a demo idea.
+- Keep Arabic and RTL support in mind from the start when the project needs it.
+- Keep user files and data under the user’s control where possible.
+- Finish things instead of endlessly planning the perfect version.
 
 ## Languages
 
 - **Urdu** — native
+- **English** — fluent
 - **Arabic** — study and research
-- **English** — working proficiency
 - **German** — B1 path → B2 goal by March 2027
-
----
-
-I’m especially interested in work and conversations around **Islamic research, scholarly reading tools, multilingual interfaces, digital education, design research, and useful software**.
+- **Korean** — a little; I originally learned Hangul because I wanted to try a script different from English or Urdu
