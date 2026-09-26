@@ -1,20 +1,18 @@
 # Abu Bakar bin Yasir Gondal
 
-**طالب علم · Designer · Developer**
+<p dir="ltr"><strong>Designer · Developer · طالب علم</strong></p>
 
-I’ve spent most of my working life in design, starting with graphic design and gradually moving into **UI/UX, web development, digital products and the systems behind them**.
+My work spans **graphic design, UI/UX and web development**. I’m most at home where design and implementation meet: working through an interface, building it, and staying close to the details that decide whether a product is actually pleasant to use.
 
-A lot of my work now sits between design and engineering: shaping interfaces, building them, improving how information is organized, and solving the small practical problems that usually get ignored until someone has to use the product every day.
+At **Markaz Ibn e Masood Al-Islami**, I work on the institute’s website, digital systems and technology-related projects. I also spend a good part of my time building my own work, most notably [**Atlas Reader**](https://github.com/AbubakarYasir/Atlas-Reader).
 
-At **Markaz Ibn e Masood Al-Islami**, I work on the website, digital systems and technology-related projects around the institute. Outside that, I keep working on my own products, the main one right now being [**Atlas Reader**](https://github.com/AbubakarYasir/Atlas-Reader).
+## 🎨 Design & Development
 
-## What I work with
+I started with graphic design and gradually moved further into **UI/UX, web development and product work**. These days I work mostly with **TypeScript/JavaScript, React, Next.js, Node.js, Express and MongoDB**; Atlas Reader has also taken me into **C++23 + Qt** and native application development.
 
-My background is mainly in **graphic design, UI/UX and web development**. These days I work mostly with **TypeScript/JavaScript, React, Next.js, Node.js, Express and MongoDB**, while Atlas Reader has pushed me into **C++23 + Qt** and deeper native application work.
+Design still matters just as much to me as the code behind it. Typography, hierarchy, layout, interaction and multilingual interfaces are all parts of the same work for me, especially when Arabic or Urdu is involved.
 
-Design still matters just as much to me as code. I care about typography, hierarchy, layout, interaction, multilingual interfaces and the difference between something that merely works and something people can actually live with.
-
-## Atlas Reader
+## 🧭 Atlas Reader
 
 Atlas Reader came out of the same life.
 
@@ -24,25 +22,25 @@ So I started building the reader I wanted to use myself.
 
 The current direction is **Windows-first with C++23 and Qt**, while keeping the core portable enough for other platforms later.
 
-## Outside the screen
+## 📚 Islamic Studies
 
-I’m also a student of Islamic sciences in Lahore. **Usul al-Hadith** is one of the subjects I’m most attached to, and in fiqh I study the **Shafi‘i madhhab**.
+Alongside my professional work, I study Islamic sciences in Lahore at **Markaz Ibn e Masood Al-Islami**. This is something I intend to keep with me for life.
 
-That side of my life has probably shaped the way I work more than I notice: I like going back to the source, checking how something actually works, comparing details, and not being satisfied with a surface-level answer.
+**Usul al-Hadith** is the subject I’m most attached to. I love the precision of it: how much can depend on a route, a narrator, a wording, or the judgement of the hadith critics. In fiqh, I study the **Shafi‘i madhhab** and want to keep going deeper into its texts and usul.
 
-I intend to keep studying Hadith and Shafi‘i fiqh seriously for the long term, while continuing my professional work in design and software alongside it.
+That part of my life also explains some of the things I end up caring about professionally: Arabic and RTL interfaces, serious reading tools, long-form documents, references, typography, and software that respects the way people actually study.
 
-## Where I’m going next
+## 🇩🇪 What’s next
 
-Right now I’m preparing for **B1 German**, with **B2 by March 2027** as the target. I want to continue into undergraduate study in **UI/UX / interface design in Germany** and go deeper into interaction design and design research.
+I’m currently preparing for **B1 German**, with **B2 by March 2027** as the target. The plan is to continue into undergraduate study in **UI/UX / interface design in Germany** and go deeper into interaction design and design research.
 
-On the software side, I’m continuing Atlas Reader and strengthening the engineering side of my work beyond the web.
+On the software side, I’m continuing Atlas Reader and pushing beyond web development into stronger native application engineering.
 
-## Tools
+## 🛠️ Tools
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,cpp,qt,wordpress,figma,ps,ai,git,github,linux,vscode)](https://skillicons.dev)
 
-## Languages
+## 🌐 Languages
 
 - **Urdu** — native
 - **English** — fluent
