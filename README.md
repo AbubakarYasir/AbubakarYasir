@@ -14,11 +14,13 @@ Design still matters just as much to me as the code behind it. Typography, hiera
 
 ## 🤖 AI, Agents & Research Tools
 
-AI is probably the part of technology I experiment with most aggressively right now. I’m interested in going beyond asking a model questions: writing detailed instructions, building reusable **skills and agent workflows**, connecting models to **MCP servers and external tools**, and seeing how much of a serious research process can be taught to an AI without letting it invent the missing pieces.
+AI is probably the part of technology I experiment with most aggressively right now. I don’t mean only chatting with a model. I spend time writing strict instructions, building reusable **skills and agent workflows**, connecting models to **MCP servers and external tools**, and testing how much of a real research process can be taught to an AI while keeping it tied to sources.
 
-A large part of that experimentation is tied to Islamic research. I use **Turath MCP** and keep testing other Islamic-source connections to see how AI can help locate original quotations, trace attributions, compare references and assist with takhrij.
+One practical use has been source-tracing. I’ve used these workflows to recover a Dostoevsky passage in its **Russian original**, trace it to the Russian collected works and its English translation, and to trace a historical quotation from **John bar Penkaye** back to the Syriac source edition. That is much closer to what interests me about AI: making a quotation checkable, not just generating another one.
 
-One of the problems I care about most is very simple: a statement gets attributed to a scholar, copied from one place to another, and eventually nobody knows where it actually came from. I want to see how far AI, when connected to the right sources and given a strict method, can help make those attributions traceable again instead of making the problem worse.
+A large part of this experimentation is tied to Islamic research. I use **Turath MCP** and keep testing other Islamic-source connections to see how AI can help locate original quotations, trace attributions, compare references and assist with takhrij.
+
+One problem I keep coming back to is simple: a statement gets attributed to a scholar, copied from one place to another, and after a while nobody knows where it actually came from. I want to see how far AI, when connected to the right sources and given a strict method, can help trace those claims back to the books instead of adding another unsourced layer on top of them.
 
 ## 🧭 Atlas Reader
 
